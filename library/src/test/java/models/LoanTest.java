@@ -7,10 +7,8 @@ import se.yrgo.models.Book;
 import se.yrgo.models.Customer;
 import se.yrgo.models.Loan;
 import se.yrgo.utilities.GenderType;
-import se.yrgo.utilities.LoanStatus;
 
 import java.time.LocalDate;
-import java.util.GregorianCalendar;
 
 public class LoanTest {
 

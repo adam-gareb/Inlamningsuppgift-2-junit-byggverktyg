@@ -1,5 +1,5 @@
 package se.yrgo.utilities;
 
-public enum GenderType {
+public enum     GenderType {
 	MALE,FEMALE,UNKNOWN;
 }

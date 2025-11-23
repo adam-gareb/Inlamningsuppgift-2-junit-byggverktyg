@@ -19,6 +19,9 @@ public class BookCatalogTest {
 	}
 
 	//G
+    /**
+     * Testing to see if adding a book succeeded
+     */
 	@Test
 	public void testAddABook() {
         Book getFirstBook = bc.getBookArray()[0];
@@ -49,7 +52,7 @@ public class BookCatalogTest {
 	@Test
 	public void testFindBookWithExtraSpaces() {
         try {
-            assertEquals(book1, bc.findBook("  Learning java   "));
+            assertEquals(book1, bc.findBook("  learning java   "));
         } catch (BookNotFoundException e) {
             fail("Unexpected BookNotFoundException");
         }

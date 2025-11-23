@@ -1,0 +1,47 @@
+@options
+@packages
+--class-path
+'C:/Users/adamg/Documents/YRGO/Utvecklingsverktyg/Inlamningsuppgift-2-junit-byggverktyg/library/target/classes;C:/Users/adamg/Documents/YRGO/Utvecklingsverktyg/Inlamningsuppgift-2-junit-byggverktyg/library/target/test-classes;C:/Users/adamg/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.14.0/junit-jupiter-api-5.14.0.jar;C:/Users/adamg/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar;C:/Users/adamg/.m2/repository/org/junit/platform/junit-platform-commons/1.14.0/junit-platform-commons-1.14.0.jar;C:/Users/adamg/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/adamg/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.14.0/junit-jupiter-engine-5.14.0.jar;C:/Users/adamg/.m2/repository/org/junit/platform/junit-platform-engine/1.14.0/junit-platform-engine-1.14.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/adamg/Documents/YRGO/Utvecklingsverktyg/Inlamningsuppgift-2-junit-byggverktyg/library/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/adamg/Documents/YRGO/Utvecklingsverktyg/Inlamningsuppgift-2-junit-byggverktyg/library/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT Test API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT Test API'
+models
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\src\test\java = 1763855054873
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\allclasses-index.html = 1763892841652
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\allpackages-index.html = 1763892841653
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\copy.svg = 1763892841673
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\element-list = 1763892841609
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\help-doc.html = 1763892841670
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\index-all.html = 1763892841663
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\index.html = 1763892841666
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\link.svg = 1763892841673
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\member-search-index.js = 1763892841657
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\module-search-index.js = 1763892841655
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\overview-tree.html = 1763892841642
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\package-search-index.js = 1763892841656
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\script.js = 1763892841672
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\search-page.js = 1763892841676
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\search.html = 1763892841664
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\search.js = 1763892841675
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\stylesheet.css = 1763892841671
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\tag-search-index.js = 1763892841657
+C:\Users\adamg\Documents\YRGO\Utvecklingsverktyg\Inlamningsuppgift-2-junit-byggverktyg\library\target\site\testapidocs\type-search-index.js = 1763892841656

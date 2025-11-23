@@ -1,0 +1,26 @@
+När jag skrev klart i testklasserna under src/test/java/models så var 'compile' den första maven goals som jag använde.
+Compile ser till att kompilera klasserna som ligger under paketet src/main/java. De kompilerade klasserna hamnar sedan i
+inuti target/classes, och eventuellt i den paketstrukturen man själv kan ha skapat under src/main/java.
+
+
+Efter att jag använde mig av compile så använde jag mig av 'test' goal. Vad test gör är att kompilera klasserna såsom med compile, 
+och sedan kör dem. Om JUnit testerna fungerar så som de ska så ska man kunna se att det står 'BUILD SUCCESS'. Däremot om det visar
+sig att någon av testerna inte lyckas, så kommer man istället få en massa ERROR meddelanden.
+
+
+Sedan så fanns det ett tillfälle där jag ville börja om med min target katalog och ta bort mina kompilerade klasser, så jag körde 'clean', vilket gör så att den rensar hela target katalogen.
+
+
+Jag använde också 'package', vilket gör så att den skapar en JAR fil som den lägger i target katalogen.
+
+
+Slutligen använde jag mig av 'site', vilket gör så att den skapar Javadoc API reports, Surefire reports och Project info reports inuti target/site katalogen. Den skapar också katalogerna apidocs, css, images och testapidocs.
+
+
+
+Totalt alla maven goals som jag använde:
+compile
+test
+clean
+package
+site
